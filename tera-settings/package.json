@@ -1,0 +1,9 @@
+{
+  "name": "tera-protobuf",
+  "version": "0.1.0",
+  "description": "UI setting reader/writer.",
+  "author": "meishu",
+  "dependencies": {
+    "protobufjs": "^6.6.5"
+  }
+}
